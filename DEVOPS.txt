@@ -1,0 +1,86 @@
+Linux
+
+1. Boot Loader: Software to manage the booting process of a computer
+2. Kernel: manages CPU memory core
+3. init system: 
+4. Daemons: Background services.
+5. Graphical surver
+6. Desktop environment
+7. Apps
+
+Linux distributions
+1. Ubuntu
+2. Debian
+
+Linux is used cuz it is an opensource and is flexible.
+
+ 
+Linux commands
+ ls: list files and directories
+cd: change the  active directory
+sudo or su: change the current user to super/root user
+mv: move a file or rename a file
+rm: remove the files in a directory or the whole things 
+re -r: remove contents of the directory and the directory as well
+mkdir: create a directory in the current directory
+chmod: change the file mode to r-read, w-write, x-execute
+chown: changes the ownership  of the file/folder
+cat: view contents of a file
+echo: display text or a string to the standard output 
+Clear: clears the terminal screen
+apt-get: package manager to install, remove and upgrade software packages
+history: displays previously used commands
+
+Waterfall and Agile model
+Goes in a sequence
+
+1. Requirement analysis where the requirement is given by the client
+2. System design
+3. Implementation: coding
+4. Verification: testing the app
+5. Deployment
+6. maintenance
+
+Pros:
+Easy, cost effective, suitable for small projects
+
+Cons:
+Risky and uncertain
+Not for large
+End product only at the end
+not suitable for changing environments
+difficult to make changes in the testing phase
+
+
+Agile model
+Similar to devops
+
+Product backlog: might have infinite number of items we have to decide what to get this is for sprint planning. 
+
+DASA
+Devops agile skills association
+Customer centric action
+Create with end in mind
+end to end reaponsibilty
+cross funtional autonomus teams
+Continuos improvement
+automate anything u can
+
+DEVOPS Tools
+1. Sourcecode management: Track cahnges in a code in a repository. Git and Github
+
+2. Software build: Gradle and Maven
+
+3. Testing: Selenium, Junit, Appium
+
+4. Integration: Jenkins and Bamboo
+
+5. CMT and deplyment: Important stage. Codeship, AWS Codedeploy, Terraform, Ansible, Chef, Puppet
+
+6. Monitoring: Ensures product funtions, detecting anomalies and negating their effects before they bother the consuemr
+Nagios and splunk
+
+7. Containerization: Form og operating system virtualization in which apps run. 
+Docker Kubernetes
+
+
